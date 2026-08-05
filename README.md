@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛒 Nuvra Commerce — Growth Analytics Report</h1>
+  <h1>🛒 Nuvra Commerce | Growth Analytics Report</h1>
   <h3>How a Latin American e-commerce startup used data to diagnose stagnation and find its path to real growth</h3>
   <br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
